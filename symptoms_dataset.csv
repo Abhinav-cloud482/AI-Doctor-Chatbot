@@ -1,0 +1,101 @@
+disease,symptoms,advice
+flu,fever chills cough body pain fatigue headache,rest fluids paracetamol consult if severe
+common cold,sneezing runny nose sore throat mild fever,rest steam warm fluids hygiene care
+migraine,severe headache nausea light sensitivity dizziness,rest dark room avoid triggers medication
+food poisoning,vomiting diarrhea stomach cramps fever dehydration,ORS fluids rest avoid solid food
+dengue,high fever joint pain rash headache eye pain,urgent care hydration platelet monitoring
+malaria,fever chills sweating headache fatigue,antimalarial treatment mosquito prevention
+heart attack,chest pain left arm pain sweating breathlessness,national emergency immediate hospital care
+hypertension,headache dizziness blurred vision chest pressure,low salt diet medication BP monitoring
+diabetes,thirst frequent urination fatigue blurred vision,diet control insulin monitoring exercise
+asthma,wheezing breathlessness chest tightness cough,inhaler avoid triggers medical follow-up
+bronchitis,persistent cough mucus chest discomfort fatigue,rest fluids avoid smoke medical care
+pneumonia,fever cough phlegm chest pain breathlessness,antibiotics rest hospital care if severe
+tuberculosis,chronic cough blood weight loss fever night sweats,complete TB meds isolation nutrition
+covid19,fever cough loss smell fatigue breathlessness,isolation oxygen monitoring hydration
+typhoid,fever abdominal pain weakness constipation diarrhea,antibiotics hydration hygiene
+cholera,severe diarrhea dehydration vomiting muscle cramps,ORS emergency care sanitation
+hepatitis,jaundice fatigue nausea abdominal pain dark urine,avoid alcohol rest liver care
+anemia,fatigue weakness dizziness pale skin short breath,iron diet supplements evaluation
+arthritis,joint pain swelling stiffness reduced mobility,exercise weight control meds
+osteoporosis,bone weakness fractures back pain height loss,calcium vitamin D exercise prevention
+kidney stones,severe flank pain blood urine nausea vomiting,hydration pain management medical removal
+UTI,burning urination frequent urge abdominal pain fever,antibiotics hydration hygiene
+eczema,itchy dry red skin rash inflammation,moisturize avoid irritants creams
+psoriasis,scaly red patches itching skin thickening,dermatology treatment stress control
+depression,low mood sadness fatigue sleep loss hopelessness,therapy support medication if needed
+anxiety,worry restlessness fast heartbeat sweating,relaxation therapy counseling
+insomnia,sleeplessness fatigue irritability poor focus,sleep hygiene routine relaxation
+gastritis,stomach pain burning nausea bloating,avoid spicy food antacids diet
+appendicitis,sharp right abdominal pain fever vomiting,emergency surgery
+pancreatitis,upper abdominal pain nausea vomiting fever,medical emergency avoid alcohol
+gout,sudden joint pain swelling redness,low purine diet medication
+allergy,sneezing itching rash swelling breathing issues,avoid allergen antihistamines
+sinusitis,facial pain congestion headache thick mucus,steam decongestants rest
+meningitis,stiff neck fever headache confusion,emergency hospitalization
+epilepsy,seizures loss of consciousness jerking,anti seizure medication
+parkinson,tremors stiffness slow movement balance issues,neurologist care therapy
+alzheimer,memory loss confusion behavior change,care support routine
+obesity,excess weight breathlessness fatigue joint pain,diet exercise lifestyle
+hypothyroidism,weight gain fatigue cold intolerance constipation,thyroid hormone therapy
+hyperthyroidism,weight loss fast heartbeat sweating anxiety,thyroid control meds
+liver cirrhosis,jaundice swelling fatigue confusion,avoid alcohol medical care
+peptic ulcer,stomach burning pain nausea bloating,antacids diet control
+glaucoma,vision loss eye pain halos blurred vision,eye drops surgery
+cataract,cloudy vision glare poor night vision,eye surgery
+rabies,fever hydrophobia confusion paralysis,bite emergency vaccine
+tetanus,muscle stiffness lockjaw spasms,vaccination emergency care
+chickenpox,itchy blisters fever rash fatigue,rest avoid scratching
+measles,fever cough rash red eyes,hydration isolation
+mumps,swollen jaw fever pain chewing,rest fluids isolation
+rubella,mild fever rash swollen lymph nodes,rest vaccination
+whooping cough,severe cough vomiting fatigue,antibiotics vaccine
+polio,paralysis fever weakness,vaccination prevention
+diphtheria,sore throat breathing difficulty fever,antitoxin antibiotics
+leprosy,skin patches numbness nerve damage,long treatment medication
+scabies,itching rash worse at night,antiparasitic cream
+ringworm,ring rash itching redness,antifungal treatment
+athletes foot,itching between toes odor redness,antifungal hygiene
+conjunctivitis,red eyes discharge itching,eye drops hygiene
+heat stroke,high temp dizziness confusion collapse,cooling emergency care
+hypothermia,low temp shivering confusion,warming emergency care
+dehydration,dry mouth dizziness weakness,ORS fluids
+sunburn,red skin pain blistering,cooling lotion hydration
+food allergy,swelling rash breathing difficulty,avoid allergen emergency care
+stroke,face droop speech loss weakness one side,emergency hospital care
+kidney failure,swelling fatigue low urine nausea,dialysis medical care
+liver failure,jaundice confusion bleeding,urgent hospital care
+asthma attack,severe breathlessness wheezing,use inhaler emergency care
+bronchospasm,chest tightness breathing difficulty,inhaler rest
+GERD,heartburn chest burning acid reflux,avoid spicy food medication
+ulcerative colitis,diarrhea blood abdominal pain fatigue,medical treatment diet
+crohns disease,abdominal pain diarrhea weight loss,inflammatory disease treatment
+IBS,bloating cramps diarrhea constipation,diet stress control
+hemorrhoids,pain bleeding itching rectal area,fiber hydration treatment
+migraine aura,visual disturbances headache nausea,rest medication
+vertigo,dizziness spinning nausea imbalance,rest medication
+thyroid nodule,neck swelling swallowing difficulty,check ultrasound
+goiter,neck swelling thyroid enlargement,iodine balance treatment
+skin infection,redness pain swelling pus,antibiotics hygiene
+cellulitis,skin redness warmth swelling fever,antibiotics medical care
+abscess,localized pus swelling pain,drainage antibiotics
+boils,red painful skin lump pus,antiseptic care
+acne,pimples oily skin inflammation,hygiene topical treatment
+hair loss,thinning hair bald patches stress,medical evaluation nutrition
+dandruff,flaky scalp itching dryness,anti dandruff shampoo
+vitamin D deficiency,bone pain weakness fatigue,sun exposure supplements
+vitamin B12 deficiency,anemia fatigue numbness weakness,vitamin supplements diet
+scurvy,bleeding gums weakness fatigue,vitamin C intake
+rickets,bone deformity weakness delayed growth,vitamin D calcium
+hearing loss,hearing difficulty tinnitus,machine evaluation
+ear infection,ear pain fever discharge,antibiotics care
+tonsillitis,sore throat fever difficulty swallowing,antibiotics rest
+laryngitis,voice loss sore throat cough,voice rest hydration
+bronchial asthma cough,cough wheezing breathlessness inhaler,avoid triggers
+sleep apnea,snoring breathing pauses fatigue,weight control CPAP
+panic disorder,rapid heartbeat fear sweating dizziness,therapy medication
+phobia,intense fear avoidance anxiety,therapy exposure treatment
+bipolar disorder,mood swings mania depression,psychiatric care medication
+schizophrenia,hallucinations delusions disorganized thinking,antipsychotic treatment
+PTSD,flashbacks anxiety nightmares trauma,therapy counseling
+autism spectrum,social difficulty repetitive behavior,therapy support
