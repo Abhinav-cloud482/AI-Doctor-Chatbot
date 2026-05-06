@@ -1,15 +1,14 @@
 # AI-Doctor-Chatbot
 
 
-# 🧑‍⚕️ AI Doctor Chatbot (Rule-Based System)
+## AI Doctor Chatbot (Rule-Based System)
 
-> ⚠️ **Disclaimer:**  
+> **Disclaimer:**  
 This project is NOT a replacement for a real doctor.  
 It is an educational AI simulation tool. Always consult a certified medical professional for any health concerns.
 
----
 
-## 📌 Overview
+## Overview
 
 The **AI Doctor Chatbot** is a simple rule-based medical assistant that predicts possible diseases based on user-reported symptoms.
 
@@ -18,20 +17,18 @@ It uses a predefined dataset (`symptoms_dataset.csv`) and matches user symptoms 
 - Confidence score (match percentage)
 - Basic health advice
 
----
 
-## 🚀 Features
+## Features
 
-- 🧠 Rule-based symptom matching algorithm
-- 💬 Interactive question-based chatbot
-- 🚨 Emergency symptom detection system
-- 📊 Disease prediction with confidence score
-- 📁 CSV-based extensible dataset
-- ⚡ Lightweight and fast (no ML model required)
+- Rule-based symptom matching algorithm
+- Interactive question-based chatbot
+- Emergency symptom detection system
+- Disease prediction with confidence score
+- CSV-based extensible dataset
+- Lightweight and fast (no ML model required)
 
----
 
-## 🏗️ Project Structure
+## Project Structure
 
 
 ```
@@ -43,9 +40,8 @@ AI-Doctor-Chatbot/
 ```
 
 
----
 
-## ⚙️ How It Works
+## How It Works
 
 1. The chatbot asks the user a series of health-related questions.
 2. User inputs symptoms in text form.
@@ -56,9 +52,9 @@ AI-Doctor-Chatbot/
 
 ---
 
-## 📊 Algorithm
+## Algorithm
 
-The system uses a simple **set-based similarity approach**:
+The system uses a simple **set-based similarity approach** :-
 
 ```
 
@@ -68,9 +64,8 @@ score = (matching symptoms) / (total symptoms of disease)
 
 Results are sorted in descending order of score.
 
----
 
-## 🚨 Emergency Detection
+## Emergency Detection
 
 The system immediately warns the user if critical symptoms are detected:
 
@@ -78,15 +73,14 @@ The system immediately warns the user if critical symptoms are detected:
 - Difficulty breathing
 - Unconsciousness
 
-If detected:
+If detected :-
 
 ```
 
-🚨 EMERGENCY! Go to hospital immediately!
+EMERGENCY! Go to hospital immediately!
 
 ```
 
----
 
 ## 🧪 Example Usage
 
@@ -106,21 +100,20 @@ Any nausea or vomiting? no
 Any breathing issues? mild
 Any other symptoms? tired
 
-🩺 Possible conditions:
+Possible conditions :-
 
 - flu (75.0% match)
-💡 Advice: rest and drink fluids
+Advice: rest and drink fluids
 
 - viral infection (62.5% match)
-💡 Advice: stay hydrated and monitor symptoms
+Advice: stay hydrated and monitor symptoms
 
-⚠️ Always consult a real doctor.
+Always consult a real doctor.
 
 ```
 
----
 
-## 📁 Dataset Format
+## Dataset Format
 
 Your `symptoms_dataset.csv` should look like:
 
@@ -129,9 +122,8 @@ Your `symptoms_dataset.csv` should look like:
 | flu | fever cough cold | rest and fluids |
 | malaria | fever chills sweating | consult doctor immediately |
 
----
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the repository
 ```bash
@@ -181,3 +173,4 @@ Always consult a qualified medical professional.
 
 Abhinav Dixit
 
+Python Developer | Data & ML Enthusiast
