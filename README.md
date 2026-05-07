@@ -113,6 +113,14 @@ Always consult a real doctor.
 ```
 
 
+## Screenshots
+
+[ Sample; Iputs are to be provided ]
+
+<img width="1366" height="630" alt="output" src="https://github.com/user-attachments/assets/9e97f4c3-982b-40e5-bccc-ef7a3fffc3e4" />
+
+
+
 ## Dataset Format
 
 Your `symptoms_dataset.csv` should look like:
