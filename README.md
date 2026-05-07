@@ -82,14 +82,14 @@ EMERGENCY! Go to hospital immediately!
 ```
 
 
-## 🧪 Example Usage
+## Example Usage
 
 ```
 
 ==================================================
-👨‍⚕️ AI Doctor Chatbot
+AI Doctor Chatbot
 ==================================================
-⚠️ Not medical advice
+Not medical advice
 
 Type 'start' or 'exit': start
 
