@@ -44,7 +44,7 @@ QUESTIONS = [
 def collect_symptoms():
     user_symptoms = []
 
-    print("\n👨‍⚕️ डॉक्टर: I will ask a few questions.\n")
+    print("\n डॉक्टर: I will ask a few questions.\n")
 
     for q in QUESTIONS:
         try:
@@ -84,9 +84,9 @@ def diagnose(df, user_symptoms):
 # -----------------------------
 def main():
     print("\n" + "="*50)
-    print("👨‍⚕️ AI Doctor Chatbot")
+    print("AI Doctor Chatbot")
     print("="*50)
-    print("⚠️ Not medical advice\n")
+    print("Not medical advice\n")
 
     df = load_data()
 
@@ -94,7 +94,7 @@ def main():
         cmd = input("\nType 'start' or 'exit': ").lower().strip()
 
         if cmd == "exit":
-            print("Stay healthy! 👋")
+            print("Stay healthy!")
             sys.exit()
 
         if cmd != "start":
@@ -108,7 +108,7 @@ def main():
 
         # Emergency check
         if any(e in " ".join(user_symptoms) for e in EMERGENCY):
-            print("\n🚨 EMERGENCY! Go to hospital immediately!\n")
+            print("\nEMERGENCY! Go to hospital immediately!\n")
             continue
 
         results = diagnose(df, user_symptoms)
@@ -117,9 +117,9 @@ def main():
 
         for disease, score, advice in results:
             print(f"- {disease} ({round(score*100,2)}% match)")
-            print(f"  💡 Advice: {advice}\n")
+            print(f" Advice: {advice}\n")
 
-        print("⚠️ Always consult a real doctor.\n")
+        print("Always consult a real doctor.\n")
 
 # -----------------------------
 # Run
